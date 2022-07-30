@@ -1,4 +1,11 @@
-### 쏘...
+### 나의 귀여운 일기장입닏아 ^,.^
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haansohee)](https://velog.io/@haansohee)
+
+<br>
+<br>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haansohee)](https://github.com/haansohee/github-readme-stats)  -->
 
 <!-- ### Hi there 👋 -->
 
