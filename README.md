@@ -1,12 +1,12 @@
-#### 🐈 ♡.°୭̥ ୨୧ ♡⃛⋆⁺॰｡ཻ˚♡ ˗ˋˏ❤︎ˎˊ˗  -ˋˏ ♡ ˎˊ-  ♡✧。♡*.˖◛⁺⑅♡♡ ⋆⁺₊⋆ ☾⋆⁺
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haansohee)](https://velog.io/@haansohee)
-
-#### 🐈‍⬛ ♡ ₊⋆ ☾⋆⁺₊⋆ ♡̷̷̷ ⋆⁺₊⋆ ☾⋆⁺₊⋆ฅʕ•ﻌ•ʔฅ ੈ✩‧₊˚ * ੈ♡‧☾⋆⁺₊⋆ ♡̷̷̷₊⋆ ♡‧₊˚*
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haansohee)](https://github.com/haansohee/github-readme-stats)  -->
+<div align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ssowift&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4">
+  
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=haansohee">
+  <br><br>
+  <p>  🐈 ♡.°୭̥ ୨୧ ♡⃛⋆⁺॰｡ཻ˚♡ ˗ˋˏ❤︎ˎˊ˗  -ˋˏ ♡ ˎˊ-  ♡✧。♡*.˖◛⁺⑅♡♡ ⋆⁺₊⋆ ☾⋆⁺ </p>
+  <img width="49%" src="./profile-3d-contrib/profile-gitblock.svg">
+  
+</div>
 
 <!-- ### Hi there 👋 -->
 
