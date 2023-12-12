@@ -4,7 +4,7 @@
   <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=haansohee">
   <br><br>
   <p>  🐈 ♡.°୭̥ ୨୧ ♡⃛⋆⁺॰｡ཻ˚♡ ˗ˋˏ❤︎ˎˊ˗  -ˋˏ ♡ ˎˊ-  ♡✧。♡*.˖◛⁺⑅♡♡ ⋆⁺₊⋆ ☾⋆⁺ </p>
-  <img width="49%" src="./profile-3d-contrib/profile-gitblock.svg">
+  <img width="70%" src="./profile-3d-contrib/profile-gitblock.svg">
   
 </div>
 
