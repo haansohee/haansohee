@@ -1,12 +1,17 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ssowift&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4">
-  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=haansohee">
+<!--   <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=haansohee"> -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haansohee)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p> 🐈 ♡.°୭̥ ୨୧ ♡⃛⋆⁺॰｡ཻ˚♡ ˗ˋˏ❤︎ˎˊ˗  -ˋˏ ♡ ˎˊ-  ♡✧。♡*.˖◛⁺⑅♡♡ ⋆⁺₊⋆ ☾⋆⁺ <img width="8%" src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> study velog ♡.°୭̥ ୨୧  </p>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haansohee&color=dark)](https://velog.io/@haansohee)
   
   <br><br>
   
-    
-    
-  <p> 🐈 ♡.°୭̥ ୨୧ ♡⃛⋆⁺॰｡ཻ˚♡ ˗ˋˏ❤︎ˎˊ˗  -ˋˏ ♡ ˎˊ-  ♡✧。♡*.˖◛⁺⑅♡♡ ⋆⁺₊⋆ ☾⋆⁺ <img width="8%" src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> </p>
 
 </div>
 
