@@ -7,7 +7,6 @@
     
     
   <p> 🐈 ♡.°୭̥ ୨୧ ♡⃛⋆⁺॰｡ཻ˚♡ ˗ˋˏ❤︎ˎˊ˗  -ˋˏ ♡ ˎˊ-  ♡✧。♡*.˖◛⁺⑅♡♡ ⋆⁺₊⋆ ☾⋆⁺ <img width="8%" src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> </p>
-  <img width="70%" src="./profile-3d-contrib/profile-gitblock.svg">
 
 </div>
 
